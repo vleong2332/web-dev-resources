@@ -9,7 +9,7 @@ Compilation of resources I personally found useful.
 - [Directive Definition Object] (https://d2eip9sf3oo6c2.cloudfront.net/pdf/egghead-io-directive-definition-object-cheat-sheet.pdf)
 - [UI Router] (https://d2eip9sf3oo6c2.cloudfront.net/pdf/egghead-io-ui-router-cheat-sheet.pdf)
 
-### Git
+## Git
 
 ### Cheat Sheet
 
